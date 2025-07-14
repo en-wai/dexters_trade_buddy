@@ -1,0 +1,18 @@
+[
+    {
+        "direction": "SELL",
+        "symbol": "XAUUSD",
+        "entry": 3393.54,
+        "tp1": 3386.78,
+        "tp2": 3376.67,
+        "sl": 3400.23
+    },
+    {
+        "direction": "SELL",
+        "symbol": "XAUUSD",
+        "entry": 3393.54,
+        "tp1": 3386.78,
+        "tp2": 3376.67,
+        "sl": 3400.23
+    }
+]

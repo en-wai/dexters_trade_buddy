@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore secrets
+.env
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore local session/log/temp files
+*.log
+*.session
+*.xlsx
